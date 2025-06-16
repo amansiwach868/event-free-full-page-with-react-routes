@@ -16,12 +16,11 @@ const HomeHero = () => {
                         </svg>
                     </span> scelerisque etiam eu.</h1>
                     <span className=' absolute top-1/2 right-0'>
-
                     </span>
                 </div>
                 <p className='text-[20px] text-white max-w-[770px] w-full font-[Yantramanav] mt-[18px] mb-[33px]'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc efficitur urna in dictum suscipit. Suspendisse maximus ipsum sem. Donec ut justo et leo congue lacinia vitae nec arcu. Nunc elit elit, malesuada id suscipit cursus,</p>
                 <div className="flex gap-[23px] items-center">
-                    <a href=''><CustomButton><b className=' font-semibold'>Get Started</b></CustomButton></a>
+                    <a href='#'><CustomButton><b className=' font-semibold'>Get Started</b></CustomButton></a>
                     <a className='text-[20px] text-white hover:scale-110 duration-300' href="#">Learn more</a>
                 </div>
                 <div className="bg-[#2C49FEBD] rounded-[50px] max-w-[962px] w-full py-[17px] lg:pl-[35px] lg:pr-[23px] px-[17px] flex lg:flex-row flex-col justify-center items-center lg:mt-[165px] mt-[50px] gap-y-10 relative overflow-hidden" >
